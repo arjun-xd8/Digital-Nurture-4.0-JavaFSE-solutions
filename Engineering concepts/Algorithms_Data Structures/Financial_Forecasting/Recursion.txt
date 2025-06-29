@@ -1,0 +1,7 @@
+Recursion = A function calling itself to solve a smaller version of the problem.
+
+int factorial(int n) {
+    if (n == 1) return 1;
+    return n * factorial(n - 1);
+}
+In financial forecasting, recursion can help calculate future values step-by-step based on growth rate.

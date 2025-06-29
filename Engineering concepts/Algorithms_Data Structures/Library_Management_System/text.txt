@@ -1,0 +1,9 @@
+🔹 Linear Search:
+Go one by one through the list.
+No need to sort.
+Time Complexity: O(n)
+
+🔹 Binary Search:
+Only works on a sorted list.
+Repeatedly divides the list into half.
+Time Complexity: O(log n)
