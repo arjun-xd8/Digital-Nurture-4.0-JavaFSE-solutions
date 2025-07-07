@@ -1,3 +1,0 @@
-Note:
-I had been pushing my weekly assignment files regularly to this repository. However, due to an accidental deletion of local files, I had to recover them and push everything again at once.As a result, GitHub now shows all files as recently committed, even though they were originally submitted on a weekly basis.
-The original commit history was lost due to this, but the content remains the same as submitted each week. This message is just to clarify the timeline of work done.

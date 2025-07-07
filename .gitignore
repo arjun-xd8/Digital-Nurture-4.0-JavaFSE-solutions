@@ -1,0 +1,9 @@
+# Ignore class files
+*.class
+
+# IDE and build folders
+.idea/
+.vscode/
+target/
+bin/
+build/
